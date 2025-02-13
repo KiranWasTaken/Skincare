@@ -1,5 +1,7 @@
 dataset link: https://www.kaggle.com/datasets/shakyadissanayake/oily-dry-and-normal-skin-types-dataset/data
+
 Step:
+
 1 setup virtual env and activate it.
 2. Install necessary packages : pip install -r requirements.txt
 3. Rename the dataset main folder to "skin_dataset"
